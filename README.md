@@ -1,6 +1,8 @@
 # Ford-Fulkerson-method
 Ford Fulkerson - Max Flow problem in graph
+
 instructions:
+
 creating a graph file:
 
 	1. create a txt file with the following lines:
